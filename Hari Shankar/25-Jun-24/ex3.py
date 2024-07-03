@@ -1,0 +1,13 @@
+#input() method get the values as string 
+#type casting int() float() bool() str() complex() list() tuple() dict() set()
+a=float(input("Enter the Number1:"))
+b=float(input("Enter the Number2:"))
+print(f'{a}+{b}={a+b}')
+print(f'{a}-{b}={a-b}')
+print(f'{a}*{b}={a*b}')
+print(f'{a}/{b}={a/b}')
+print(f'{a}//{b}={a//b}')
+print(f'{a}%{b}={a%b}')
+print(f'{a}**{b}={a**b}')
+# a=bool(input("Python is a Programming Language:"))
+# print(a)

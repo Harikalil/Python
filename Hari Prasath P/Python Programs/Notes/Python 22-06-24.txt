@@ -1,0 +1,20 @@
+1.Python Programming - Programming Language 
+2.Programming Language - is used to communicate with computer 
+3.Program is a set of instruction  or Sequence of instruction 
+4.Software is a collection of Program 
+5.Python is Programming Language 
+	a)Open Source 
+	b)has many Package 
+	c)Simple Syntax & Less Code 
+	d)Python can be used to develope such console , windows & Web Application , Games ,AI Based Project 
+	e)Procedure , OOP & Function 
+6.Python founder Gudio Van Rossum in Year 1991 
+7.Python Name is dervied from Montey Python flying Circus in BBC Tv show 
+8.Python use interrupter to convert the source code (.py) to machine code or byte code 
+9.Interrupter is used to read the source code line by line and convert into machine code 
+10.Python version 3.12.4 - Python.org
+11.Python mode - Script mode & Shell mode 
+12.IDLE 3.12.4 - Intergated Development Learning Environment 
+13.IDE - VS code , Pycharm , VS ,Spydier Money , sublime & Juptier Notes 
+(Intergated Development Environment )
+14.
