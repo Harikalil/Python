@@ -5,5 +5,6 @@ for x in number :
         k=k+'0'
     else:
         k=k+'1'
-print(k)     
+print(k)
+
         

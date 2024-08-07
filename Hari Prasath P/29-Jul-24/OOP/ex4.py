@@ -15,6 +15,5 @@ class evenno:
         print("Memory Deleted!")
 
 a=evenno()
-a.getnumber(int(input("Enter the Number Values")))
-del a
+a.getnumber(int(input("Enter the Number Values :")))
 print(a.j)
