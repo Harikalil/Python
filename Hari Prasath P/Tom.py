@@ -1,5 +1,4 @@
 import pyfiglet
 
-# Generate ASCII art text
-ascii_art = pyfiglet.figlet_format("N a g a p p a n")
+ascii_art = pyfiglet.figlet_format(input("Enter the name for logo : "))
 print(ascii_art)
